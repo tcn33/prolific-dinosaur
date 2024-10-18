@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tcn33.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tcn33.com/</loc>
+</url>
+<url>
+<loc>https://tcn33.com/about.html</loc>
+<lastmod>2024-10-18T21:23:44+11:00</lastmod>
+</url>
+<url>
+<loc>https://tcn33.com/welcome-to-the-new-new-blog.html</loc>
+<lastmod>2024-10-18T20:43:59+11:00</lastmod>
+<image:image>
+<image:loc>https://tcn33.com/media/posts/1/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c.jpeg</image:loc>
+<image:title><![CDATA[A black cat with green eyes inside a cardboard box]]></image:title>
+</image:image>
+</url>
+</urlset>

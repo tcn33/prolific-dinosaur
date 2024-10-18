@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>tcn33.com</title>
+    <link href="https://tcn33.com/feed.xml" rel="self" />
+    <link href="https://tcn33.com" />
+    <updated>2024-10-18T20:43:59+11:00</updated>
+    <author>
+        <name>Toby Nieboer</name>
+    </author>
+    <id>https://tcn33.com</id>
+
+    <entry>
+        <title>Welcome to the new new blog</title>
+        <author>
+            <name>Toby Nieboer</name>
+        </author>
+        <link href="https://tcn33.com/welcome-to-the-new-new-blog.html"/>
+        <id>https://tcn33.com/welcome-to-the-new-new-blog.html</id>
+
+        <updated>2024-10-18T20:43:59+11:00</updated>
+            <summary>
+                <![CDATA[
+                    I decided to blow things up and start again, again... this time it's powered by Publii. Still a static site generator, but one with a more robust editor. As is traditional around these parts, here's a photo of our new cat to commemorate the new&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    I decided to blow things up and start again, <i>again</i>... this time it's powered by <a href="https://getpublii.com/" target="_blank">Publii</a>. Still a static site generator, but one with a more robust editor.<br><br>As is traditional around these parts, here's a photo of our new cat to commemorate the new blog. <a href="https://en.wikipedia.org/wiki/Nyx" target="_blank">Nyx</a> is about eighteen months old and has been through a lot, but she seems to be settling in gradually.&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://tcn33.com/media/posts/1/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c.jpeg" height="1024" width="768" alt="A black cat with green eyes inside a cardboard box"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://tcn33.com/media/posts/1/responsive/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c-xs.jpeg 640w ,https://tcn33.com/media/posts/1/responsive/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c-sm.jpeg 768w ,https://tcn33.com/media/posts/1/responsive/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c-md.jpeg 1024w ,https://tcn33.com/media/posts/1/responsive/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c-lg.jpeg 1366w ,https://tcn33.com/media/posts/1/responsive/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c-xl.jpeg 1600w ,https://tcn33.com/media/posts/1/responsive/43CF2432-7500-4C90-AF16-B0E402B80462_1_105_c-2xl.jpeg 1920w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
